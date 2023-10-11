@@ -1,16 +1,21 @@
 header{
     display: flex;
-    justify-content: center;
     background-color: black;
+    border-radius: 5px;
 }
-
-img{
+img {
     width: 120px;
+}
+.logo {
+        float: left;
+        margin-right: 20px;
+        margin-left: 20px; 
 }
 ul{
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
+    float: right;
     
 }
 ul li{
