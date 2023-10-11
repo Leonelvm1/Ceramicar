@@ -1,0 +1,59 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+img{
+    width: 120px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ul li{
+    list-style: none;
+    margin-right: 10px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+a{
+    text-decoration: none;
+    color: #593a15;
+    padding: 10px;
+}
+a:hover{
+    color: #BF8417;
+    background-color: #F2DC99;
+    border-radius: 5px;
+}
+footer p .abajo{
+    text-align: center;
+}
+section .formulario{
+   margin: auto;  
+   text-align: center;       
+}
+section .ubicacion{
+    margin: auto;
+    text-align: center;
+}
+#uno {
+    width: 100%;
+    height: 200px;
+    background-color: azure;
+}
+#dos {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(12, 71, 71);
+}
+#tres {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(60, 139, 23);
+}
+p{
+    text-align: center;
+}
